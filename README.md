@@ -24,3 +24,4 @@
 * Video Generation and Prediction, Carl Vondrick, Columbia University
 
 * Reasons to Love GANs, Alexei A. Efros, UC Berkeley
+
