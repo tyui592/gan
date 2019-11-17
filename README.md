@@ -21,3 +21,4 @@ Paper List
 
 ### 10. BigGAN, Brock et al. 2019
 
+reference: https://towardsdatascience.com/must-read-papers-on-gans-b665bbae3317
