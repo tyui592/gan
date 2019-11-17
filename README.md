@@ -1,27 +1,24 @@
 # GAN(Generative adversarial networks) Study
-## Ref : https://sites.google.com/view/cvpr2018tutorialongans/
 
-* Introduction to Generative Adversarial Networks, Ian Goodfellow, Google Brain
+## Paper List
 
-* Paired Image-to-Image Translation, Phillip Isola, MIT
+### 1. GAN, Goodfellow et al. 2014
 
-* Unpaired Image-to-Image Translation with CycleGAN, Taesung Park, UC Berkeley and Jun-Yan Zhu, MIT
+### 2. Conditional GANs, Mirza and Osindero 2014
 
-* Can GANs actually learn the distribution? Some obstacles, Sanjeev Arora, Princeton
+### 3. DCGANs, Radford et al. 2015
 
-* Learning Disentangled Representations with an Adversarial Loss, Emily Denton, NYU
+### 4. Pix2Pix, Isola et al. 2016
 
-* VAE-GAN Hybrids, Mihaela Rosca, DeepMind
+### 5. Improved Techniques for Training GANs, Salimans et al. 2016
 
-* Multimodal Unsupervised Image-to-Image Translation, Ming-Yu Liu, NVIDIA
+### 6. Cycle GAN, Zhu et al. 2017
 
-* Adversarial Domain Adaptation, Judy Hoffman, UC Berkeley
+### 7. StackGAN, Zhang et al. 2017
 
-* Adversaries for Detection and Action, Xiaolong Wang, CMU
+### 8. Progreesively Growing of GANs for Improved Quality, Stability, and Variation. Karras et al. 2017
 
-* Generative Adversarial Imitation Learning, Stefano Ermon, Stanford
+### 9. StyleGAN, Karras et al. 2019
 
-* Video Generation and Prediction, Carl Vondrick, Columbia University
-
-* Reasons to Love GANs, Alexei A. Efros, UC Berkeley
+### 10. BigGAN, Brock et al. 2019
 
