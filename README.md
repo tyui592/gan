@@ -1,6 +1,5 @@
-# GAN(Generative adversarial networks) Study
-
-## Paper List
+Paper List
+--
 
 ### 1. GAN, Goodfellow et al. 2014
 
