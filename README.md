@@ -22,17 +22,3 @@ Paper List
 ### 10. BigGAN, Brock et al. 2019
 
 reference: https://towardsdatascience.com/must-read-papers-on-gans-b665bbae3317
-
-### uni-modal
-* CycleGAN
-
-### multi-domain
-* [StarGAN](https://arxiv.org/abs/1711.09020)
-
-### multi-modal
-* [MUNIT](https://arxiv.org/abs/1804.04732)
-* [DRIT](https://arxiv.org/abs/1808.00948)
-
-### multi-domain + modal
-* [SDIT](https://arxiv.org/abs/1908.06881)
-* [DMIT](https://arxiv.org/abs/1909.07877)
